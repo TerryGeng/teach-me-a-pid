@@ -4157,7 +4157,7 @@
     (property "Reference" "J3" (at 171.1326 175.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Output" (at 171.1326 177.8 0)
+    (property "Value" "Monitor" (at 171.1326 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "lib:BNC_Amphenol_031-5539_Vertical" (at 171.45 181.61 0)
